@@ -14,7 +14,7 @@ I genuinely enjoy programming, especially the thinking that comes before writing
 I like breaking problems down, exploring different approaches,  
 and understanding how things work rather than treating them as black boxes.
 
-I’m currently building my foundations in full-stack development and AI/ML,  
+I’m currently building my foundations in full-stack development,  
 with a focus on learning concepts deeply and writing code with intent.
 
 ---
@@ -23,7 +23,6 @@ with a focus on learning concepts deeply and writing code with intent.
 - Full-stack fundamentals (backend logic, data flow, APIs)  
 - Core programming concepts and problem-solving  
 - Data handling and basic data modeling  
-- Learning machine learning concepts from the ground up  
 - Writing code to understand, not just to make things work  
 
 ---
@@ -33,7 +32,7 @@ with a focus on learning concepts deeply and writing code with intent.
   <img src="https://skillicons.dev/icons?i=python,c,mongodb,vscode,git&theme=dark" />
 </p>
 
-<sub>actively learning full-stack development and AI/ML</sub>
+<sub>actively learning full-stack development</sub>
 
 ---
 
