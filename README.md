@@ -22,8 +22,7 @@ with a focus on learning concepts deeply and writing code with intent.
 ### Current Technical Focus
 - Full-stack fundamentals (backend logic, data flow, APIs)  
 - Core programming concepts and problem-solving  
-- Data handling and basic data modeling  
-- Writing code to understand, not just to make things work  
+- Data Structures & Algorithms
 
 ---
 
@@ -33,18 +32,6 @@ with a focus on learning concepts deeply and writing code with intent.
 </p>
 
 <sub>actively learning full-stack development</sub>
-
----
-
-### Projects
-
-**ClubHub (In progress)**  
-An early-stage project to explore full-stack concepts through  
-club management, roles, and permissions.  
-
-**ImageOrganiser**  
-A practical project built to explore automation and data handling  
-by organizing large image collections through explicit rules. 
 
 ---
 
