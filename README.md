@@ -8,33 +8,29 @@
 
 ---
 
-### About
-I genuinely enjoy programming, especially the thinking that comes before writing code.
+### about
 
-I like breaking problems down, exploring different approaches,  
-and understanding how things work rather than treating them as black boxes.
+i genuinely enjoy programming, especially the thinking that comes before writing code.
 
-I’m currently building my foundations in full-stack development,  
-with a focus on learning concepts deeply and writing code with intent.
+i like breaking problems down, exploring different approaches, and understanding the systems behind the abstractions.
 
----
+currently building my foundations in computer science and full-stack development, with an interest in systems programming and ai.
 
-### Current Technical Focus
-- Full-stack fundamentals (backend logic, data flow, APIs)  
-- Core programming concepts and problem-solving  
-- Data Structures & Algorithms
+### current technical focus
 
----
+- full-stack development — architecture, apis and databases
+- data structures, algorithms and problem-solving
+- systems programming and computer science fundamentals
+- exploring agentic ai and local-first ai systems
 
-### Tools
+### tech stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,mongodb,vscode,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,html,css,react,nodejs,express,mongodb,postgres,tailwind,vscode,git,postman&theme=dark" />
 </p>
-
-<sub>actively learning full-stack development</sub>
 
 ---
 
 <p align="center">
-  <sub>learning deliberately.</sub>
+  <sub>always learning, always experimenting</sub>
 </p>
